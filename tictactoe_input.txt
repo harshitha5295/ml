@@ -1,0 +1,70 @@
+tictactoe input
+
+| | | |
+-----
+| | | |
+-----
+| | | |
+
+Enter your move (row and column): 1 1
+| | | |
+-----
+| |X| |
+-----
+| | | |
+
+Computer's move:
+|O| | |
+-----
+| |X| |
+-----
+| | | |
+
+Enter your move (row and column): 0 0
+|O| | |
+-----
+| |X| |
+-----
+|X| | |
+
+Computer's move:
+|O| |O|
+-----
+| |X| |
+-----
+|X| | |
+
+Enter your move (row and column): 0 2
+|O| |O|
+-----
+| |X| |
+-----
+|X|X| |
+
+Computer's move:
+|O| |O|
+-----
+|O|X| |
+-----
+|X|X| |
+
+Enter your move (row and column): 1 2
+|O| |O|
+-----
+|O|X|X|
+-----
+|X|X| |
+
+Computer's move:
+|O| |O|
+-----
+|O|X|X|
+-----
+|X|X|O|
+
+Enter your move (row and column): 2 2
+|O| |O|
+-----
+|O|X|X|
+-----
+|X|X|X|
