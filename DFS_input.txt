@@ -1,0 +1,14 @@
+DFS
+
+Enter node (or type 'done' to finish): 0
+Enter connections for node 0 (comma-separated, or type 'none' if no connections): 1,2
+Enter node (or type 'done' to finish): 1
+Enter connections for node 1 (comma-separated, or type 'none' if no connections): 0,3,4
+Enter node (or type 'done' to finish): 2
+Enter connections for node 2 (comma-separated, or type 'none' if no connections): 0
+Enter node (or type 'done' to finish): 3
+Enter connections for node 3 (comma-separated, or type 'none' if no connections): 1
+Enter node (or type 'done' to finish): 4
+Enter connections for node 4 (comma-separated, or type 'none' if no connections): 2,3
+Enter node (or type 'done' to finish): done
+Enter the starting node for DFS traversal: 0
